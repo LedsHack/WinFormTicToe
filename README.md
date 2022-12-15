@@ -1,4 +1,4 @@
 # WinFormTicToe
-TicTacToe  + Bot (.NET)
-Простое приложение WinForms
-Демонстрация: https://www.youtube.com/watch?v=jxOAIj-3qeM
+Простое приложение WinForms\
+Демонстрация:\
+[<img src="https://img.youtube.com/vi/jxOAIj-3qeM/maxresdefault.jpg" width="50%">](https://youtu.be/jxOAIj-3qeM)
